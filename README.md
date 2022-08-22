@@ -5,10 +5,10 @@
 
 Description: My name is Jannik. 
 I am:
-🔭 30 years old 
-🍔 worked in climate politics and journalism
-⚡ currently part of a coding bootcamp
-💬 open for discussion on all topics regarding tech
+- 🔭 30 years old 
+- 🍔 worked in climate politics and journalism
+- ⚡ currently part of a coding bootcamp
+- 💬 open for discussion on all topics regarding tech
 
 ...and this marks the start of my journey into coding.
 
