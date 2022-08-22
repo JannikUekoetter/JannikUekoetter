@@ -4,7 +4,7 @@
 
 
 Description: My name is Jannik. I am 30 years old and this marks the start of my journey into coding.
-<a href="https://www.linkedin.com/in/jannik-uek%C3%B6tter-177a7019b/"><img src="linkedin.svg" alt="LinkedIn" ></a>
+Catch me on: <a href="https://www.linkedin.com/in/jannik-uek%C3%B6tter-177a7019b/"><img src="linkedin.svg" alt="LinkedIn" ></a>
 
 I did look into:
 - JavaScirpt
