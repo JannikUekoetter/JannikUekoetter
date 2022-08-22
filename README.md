@@ -3,7 +3,7 @@
 <img src="IMG_9949.jpeg" alt="profilepic" width="200"/>
 
 
-Description: My name is Jannik. 
+My name is Jannik. 
 I am:
 - 🔭 30 years old 
 - 🍔 worked in climate politics and journalism
