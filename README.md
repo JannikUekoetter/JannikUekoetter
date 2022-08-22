@@ -1,6 +1,5 @@
 # Readme
 
-![link](IMG_9949.jpeg)
 <img src="IMG_9949.jpeg" alt="profilepic" width="200"/>
 
 
