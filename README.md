@@ -12,3 +12,6 @@ I did look into:
 - Git
 - JQuery
 - React
+
+
+	<a href="[https://www.linkedin.com/in/terrytangyuan](https://www.linkedin.com/in/jannik-uek%C3%B6tter-177a7019b/)"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
