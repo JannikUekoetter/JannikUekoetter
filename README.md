@@ -14,7 +14,7 @@ I did look into:
 - React
 
 
-	<a href="[https://www.linkedin.com/in/terrytangyuan](https://www.linkedin.com/in/jannik-uek%C3%B6tter-177a7019b/)"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+	<a href="[https://www.linkedin.com/in/terrytangyuan](https://www.linkedin.com/in/jannik-uek%C3%B6tter-177a7019b/)"><img src="linkedin.svg" alt="LinkedIn"></a>
 
 
 <p align="center">🔔 <a href="">Schedule a time</a> to discuss open source and collaboration opportunities.</p>
