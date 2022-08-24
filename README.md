@@ -1,8 +1,5 @@
 # Readme
 
-<img src="IMG_9949.jpeg" alt="profilepic" width="200"/>
-
-
 My name is Jannik. 
 I am:
 - 🔭 30 years old 
