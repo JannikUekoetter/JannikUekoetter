@@ -1,6 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+my+name+is+Jannik+Uek%C3%B6tter+%F0%9F%91%8B;I'm+a+Front+End+Developer+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
-My name is Jannik. 
 I am:
 - 🔭 30 years old 
 - 🍔 worked in climate politics and journalism
