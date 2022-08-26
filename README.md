@@ -16,8 +16,10 @@ I did look into:
 - JQuery
 - React
 
-Catch me on: <a href="https://www.linkedin.com/in/jannik-uek%C3%B6tter-177a7019b/"><img src="linkedin.svg" alt="LinkedIn" ></a>
-
+Catch me on 
+[![website](./img/linkedin_light.svg)](https://www.linkedin.com/in/jannik-uek%C3%B6tter-177a7019b//#gh-light-mode-only)
+[![website](./img/linkedin_dark.svg)](https://www.linkedin.com/in/jannik-uek%C3%B6tter-177a7019b/#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 
 <p align="center">🔔 <a href="https://calendly.com/uekoetter_jannik">Schedule a time</a> to discuss open source and collaboration opportunities.</p>
