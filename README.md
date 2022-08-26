@@ -17,8 +17,8 @@ I did look into:
 - React
 
 Catch me on 
-[![website](./img/linkedin_light.svg)](https://www.linkedin.com/in/jannik-uek%C3%B6tter-177a7019b//#gh-light-mode-only)
-[![website](./img/linkedin_dark.svg)](https://www.linkedin.com/in/jannik-uek%C3%B6tter-177a7019b/#gh-dark-mode-only)
+[![website](./linkedin_light.svg)](https://www.linkedin.com/in/jannik-uek%C3%B6tter-177a7019b//#gh-light-mode-only)
+[![website](./linkedin_dark.svg)](https://www.linkedin.com/in/jannik-uek%C3%B6tter-177a7019b/#gh-dark-mode-only)
 &nbsp;&nbsp;
 ![](https://visitor-badge.glitch.me/badge?page_id=JannikUekoetter.JannikUekoetter)
 
