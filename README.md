@@ -16,7 +16,6 @@ I did look into:
 - JQuery
 - React
 
-Catch me on 
 [![website](./linkedin_light.svg)](https://www.linkedin.com/in/jannik-uek%C3%B6tter-177a7019b//#gh-light-mode-only)
 [![website](./linkedin_dark.svg)](https://www.linkedin.com/in/jannik-uek%C3%B6tter-177a7019b/#gh-dark-mode-only)
 &nbsp;&nbsp;
